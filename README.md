@@ -27,3 +27,5 @@ Matplotlib
 NumPy
 
 Requests (for dataset download)
+
+NOTE:" USE GOODLE COLAB FOR BETTER RESULTS"
